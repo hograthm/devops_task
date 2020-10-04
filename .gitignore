@@ -1,1 +1,4 @@
 task.pdf
+python/venv_env
+python/.vscode
+python/histogram.png
