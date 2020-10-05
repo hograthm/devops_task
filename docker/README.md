@@ -7,7 +7,7 @@ This project uses a regular docker file. Docker-compose can be added later if ne
 
 Build image.
 ```
-docker build -t docker_task
+docker build -t docker_task .
 ```
 
 Run container.
