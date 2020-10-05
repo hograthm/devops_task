@@ -1,6 +1,6 @@
 # Python task
 
-Histogram generator using Pandas.
+Histogram generator using Pandas and Matplotlib.
 
 ## Installation
 1. ``cd`` in ``./python`` directory.
