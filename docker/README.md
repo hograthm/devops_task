@@ -12,7 +12,7 @@ docker build -t docker_task
 
 Run container.
 ```
-docker run docker_task -dp 80:80
+docker run -dp 80:80 docker_task
 ```
 
 Open browser at ``http://localhost``.
